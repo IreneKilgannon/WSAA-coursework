@@ -1,1 +1,52 @@
-# wsaa
+# Web Services and Applications
+
+
+This is my repository for the semester three module, Web Services and Applications for a [Higher Diploma in Science in Computing in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics) at the [Atlantic Technological University](https://www.atu.ie/).
+
+The repository contains three directories:
+    * wsaa-mywork
+    * wsaa-assignments
+    * wsaa-project
+
+## wsaa-mywork
+
+This directory contains the lab work that accompanies the weekly lectures.
+
+## wsaa-assignments
+
+This directory contains the assignments that make up 40% of the overall mark for this module. 
+
+## wsaa-project
+
+This directory will contain a large project that will be set in week 7 or week 8.
+
+This project will be an application that:
+    * Retrieves data from and interacts with an API in the cloud
+    * Creates and consumes your own API
+    * Does something you decide
+
+## Prerequisites
+
+To run the file on your local system, the following must be downloaded and installed.
+
+1. Download and install Anaconda. Anaconda is a Python distribution and comes with pre-installed packages. 
+
+Please note that when installing Anaconda, it is important to check the two boxes for:
+* Add Anaconda3 to my PATH environment variable.
+* Register Anaconda3 as my default.
+
+![Anaconda](https://github.com/IreneKilgannon/pands-project/blob/main/images/Anaconda.png)
+
+2. Download and install [Visual Studio Code](https://code.visualstudio.com/).
+
+3. Download and install [git](https://git-scm.com/downloads).
+
+4. Install [Cmder](https://cmder.app/).
+
+## Usage
+
+Enter ``git clone https://github.com/IreneKilgannon/wsaa.git`` in Cmder or the terminal of Visual Studio Code to clone the repository.
+
+## Get Help
+
+Contact me at g00220627@atu.ie or alternatively [submit an issue](https://github.com/IreneKilgannon/wsaa/issues).
