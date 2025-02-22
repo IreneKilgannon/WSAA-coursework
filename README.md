@@ -4,17 +4,28 @@
 This is my repository for the semester three module, Web Services and Applications for a [Higher Diploma in Science in Computing in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics) at the [Atlantic Technological University](https://www.atu.ie/).
 
 The repository contains three directories:
-    * wsaa-mywork
-    * wsaa-assignments
-    * wsaa-project
+    * labs
+    * assignments
 
-## wsaa-mywork
+## labs
 
 This directory contains the lab work that accompanies the weekly lectures.
 
-## wsaa-assignments
+## assignments
 
 This directory contains the assignments that make up 40% of the overall mark for this module. 
+
+This directory contains the following assignments:
+
+* assignment2-carddraw.ipynb
+    * Using this API, [Deck of Cards API](https://deckofcardsapi.com/) write a program that prints out five cards. 
+
+    This API simulates dealing a deck of cards. First the cards are shuffled, then five cards are drawn and the 
+    value and suit of each card printed.
+
+* assignment03-cso.py
+    * Write a program that retrieves the dataset for the "Exchequer Account (Historical Series)" from the CSO, and stores it into a file called "cso.json". 
+
 
 ## wsaa-project
 
