@@ -1,0 +1,994 @@
+[
+    {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "68bc17f9ff2104a9d7b6777058bb4c343ca72609",
+        "size": 3078,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/.gitignore?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/.gitignore",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/68bc17f9ff2104a9d7b6777058bb4c343ca72609",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/.gitignore?token=BFSPK2CEDR6P6344DGIW2XTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/.gitignore?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/68bc17f9ff2104a9d7b6777058bb4c343ca72609",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/.gitignore"
+        }
+    },
+    {
+        "name": "Computer InFrastructure3.png",
+        "path": "Computer InFrastructure3.png",
+        "sha": "6574a9afa85ddf76999ffaa5dea742b772205ca9",
+        "size": 383131,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20InFrastructure3.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20InFrastructure3.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/6574a9afa85ddf76999ffaa5dea742b772205ca9",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Computer%20InFrastructure3.png?token=BFSPK2F6HDDM6PJE6H76W6LHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20InFrastructure3.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/6574a9afa85ddf76999ffaa5dea742b772205ca9",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20InFrastructure3.png"
+        }
+    },
+    {
+        "name": "Computer InFrastructure4.png",
+        "path": "Computer InFrastructure4.png",
+        "sha": "f82dff821de68c648159c46f23b8bfa1f73ba023",
+        "size": 534390,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20InFrastructure4.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20InFrastructure4.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/f82dff821de68c648159c46f23b8bfa1f73ba023",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Computer%20InFrastructure4.png?token=BFSPK2HYCHCJZTJUCF3U6RDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20InFrastructure4.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/f82dff821de68c648159c46f23b8bfa1f73ba023",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20InFrastructure4.png"
+        }
+    },
+    {
+        "name": "Computer InFrastructure5.png",
+        "path": "Computer InFrastructure5.png",
+        "sha": "f14e32616c500aabc15a1f529fcd1a75e0382740",
+        "size": 420668,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20InFrastructure5.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20InFrastructure5.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/f14e32616c500aabc15a1f529fcd1a75e0382740",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Computer%20InFrastructure5.png?token=BFSPK2BPDMFHZLF5JOG7NR3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20InFrastructure5.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/f14e32616c500aabc15a1f529fcd1a75e0382740",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20InFrastructure5.png"
+        }
+    },
+    {
+        "name": "Computer Infrastructure2.png",
+        "path": "Computer Infrastructure2.png",
+        "sha": "bd9341f7a0a771c4d63770008c17763aeffb1b42",
+        "size": 562166,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20Infrastructure2.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20Infrastructure2.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/bd9341f7a0a771c4d63770008c17763aeffb1b42",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Computer%20Infrastructure2.png?token=BFSPK2AK3U7DUDF5II6XG5THYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Computer%20Infrastructure2.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/bd9341f7a0a771c4d63770008c17763aeffb1b42",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Computer%20Infrastructure2.png"
+        }
+    },
+    {
+        "name": "Hist.png",
+        "path": "Hist.png",
+        "sha": "95ed7e76ee8c990c62052d223e0b4b2728776464",
+        "size": 55492,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Hist.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Hist.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/95ed7e76ee8c990c62052d223e0b4b2728776464",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Hist.png?token=BFSPK2DQ36OD6L6F64Y4LYDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Hist.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/95ed7e76ee8c990c62052d223e0b4b2728776464",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Hist.png"
+        }
+    },
+    {
+        "name": "Python programming exercises, gently explained",
+        "path": "Python programming exercises, gently explained",
+        "sha": "b29c0701a3f53ce3dbf799052201cd17c83a7281",
+        "size": 0,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Python%20programming%20exercises,%20gently%20explained?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/tree/main/Python%20programming%20exercises,%20gently%20explained",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/trees/b29c0701a3f53ce3dbf799052201cd17c83a7281",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Python%20programming%20exercises,%20gently%20explained?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/trees/b29c0701a3f53ce3dbf799052201cd17c83a7281",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/tree/main/Python%20programming%20exercises,%20gently%20explained"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "b2d339a5d3c5f01b44889c7f073d8e2411e5ba5c",
+        "size": 120,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/README.md?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/b2d339a5d3c5f01b44889c7f073d8e2411e5ba5c",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/README.md?token=BFSPK2FZSM3MOEZOILXONVLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/b2d339a5d3c5f01b44889c7f073d8e2411e5ba5c",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/README.md"
+        }
+    },
+    {
+        "name": "Scatterplot_Petal Length_vs_Sepal Length.png",
+        "path": "Scatterplot_Petal Length_vs_Sepal Length.png",
+        "sha": "a42d8b7eecb3c21d74f9a31964f83034bfd9d7c2",
+        "size": 45494,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Length_vs_Sepal%20Length.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Length_vs_Sepal%20Length.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a42d8b7eecb3c21d74f9a31964f83034bfd9d7c2",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Scatterplot_Petal%20Length_vs_Sepal%20Length.png?token=BFSPK2C2A2FDQEBKRZRUTPLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Length_vs_Sepal%20Length.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a42d8b7eecb3c21d74f9a31964f83034bfd9d7c2",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Length_vs_Sepal%20Length.png"
+        }
+    },
+    {
+        "name": "Scatterplot_Petal Length_vs_Sepal Width.png",
+        "path": "Scatterplot_Petal Length_vs_Sepal Width.png",
+        "sha": "741164e9bc1ce17620e351ee2885f27527da9531",
+        "size": 44242,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Length_vs_Sepal%20Width.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Length_vs_Sepal%20Width.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/741164e9bc1ce17620e351ee2885f27527da9531",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Scatterplot_Petal%20Length_vs_Sepal%20Width.png?token=BFSPK2AXJKJRCSRZNOYTTKDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Length_vs_Sepal%20Width.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/741164e9bc1ce17620e351ee2885f27527da9531",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Length_vs_Sepal%20Width.png"
+        }
+    },
+    {
+        "name": "Scatterplot_Petal Width_vs_Petal Length.png",
+        "path": "Scatterplot_Petal Width_vs_Petal Length.png",
+        "sha": "e3d15a63f47f3e39d67b9fa66e69efa18175edaf",
+        "size": 40941,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Width_vs_Petal%20Length.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Width_vs_Petal%20Length.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e3d15a63f47f3e39d67b9fa66e69efa18175edaf",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Scatterplot_Petal%20Width_vs_Petal%20Length.png?token=BFSPK2GIEG7KDHGNW26VYLTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Width_vs_Petal%20Length.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e3d15a63f47f3e39d67b9fa66e69efa18175edaf",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Width_vs_Petal%20Length.png"
+        }
+    },
+    {
+        "name": "Scatterplot_Petal Width_vs_Sepal Length.png",
+        "path": "Scatterplot_Petal Width_vs_Sepal Length.png",
+        "sha": "012569d113fe562f5c1178fab51051ffd0ae815a",
+        "size": 44409,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Width_vs_Sepal%20Length.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Width_vs_Sepal%20Length.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/012569d113fe562f5c1178fab51051ffd0ae815a",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Scatterplot_Petal%20Width_vs_Sepal%20Length.png?token=BFSPK2AD7TOKCIRBN264U2LHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Width_vs_Sepal%20Length.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/012569d113fe562f5c1178fab51051ffd0ae815a",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Width_vs_Sepal%20Length.png"
+        }
+    },
+    {
+        "name": "Scatterplot_Petal Width_vs_Sepal Width.png",
+        "path": "Scatterplot_Petal Width_vs_Sepal Width.png",
+        "sha": "97e9aa9ac15405262dc812a0e44af0ee44d0dcd8",
+        "size": 41949,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Width_vs_Sepal%20Width.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Width_vs_Sepal%20Width.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/97e9aa9ac15405262dc812a0e44af0ee44d0dcd8",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Scatterplot_Petal%20Width_vs_Sepal%20Width.png?token=BFSPK2DI4JEOIHMRGITVIFLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Petal%20Width_vs_Sepal%20Width.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/97e9aa9ac15405262dc812a0e44af0ee44d0dcd8",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Petal%20Width_vs_Sepal%20Width.png"
+        }
+    },
+    {
+        "name": "Scatterplot_Sepal Width_vs_Sepal Length.png",
+        "path": "Scatterplot_Sepal Width_vs_Sepal Length.png",
+        "sha": "7bd22ef7f435b58f1d4e7c4863fc79bd57ec4aaa",
+        "size": 45779,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Sepal%20Width_vs_Sepal%20Length.png?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Sepal%20Width_vs_Sepal%20Length.png",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/7bd22ef7f435b58f1d4e7c4863fc79bd57ec4aaa",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/Scatterplot_Sepal%20Width_vs_Sepal%20Length.png?token=BFSPK2EFAYDPCCMAC2SFSBTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Scatterplot_Sepal%20Width_vs_Sepal%20Length.png?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/7bd22ef7f435b58f1d4e7c4863fc79bd57ec4aaa",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/Scatterplot_Sepal%20Width_vs_Sepal%20Length.png"
+        }
+    },
+    {
+        "name": "Udemy",
+        "path": "Udemy",
+        "sha": "5334339662f46b0c7d8b591f600aa9c0ab3b3281",
+        "size": 0,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Udemy?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/tree/main/Udemy",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/trees/5334339662f46b0c7d8b591f600aa9c0ab3b3281",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/Udemy?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/trees/5334339662f46b0c7d8b591f600aa9c0ab3b3281",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/tree/main/Udemy"
+        }
+    },
+    {
+        "name": "analysis.txt",
+        "path": "analysis.txt",
+        "sha": "21612f42d0da54716cbecf9d80d55295d86a3df5",
+        "size": 2184,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/analysis.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/analysis.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/21612f42d0da54716cbecf9d80d55295d86a3df5",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/analysis.txt?token=BFSPK2E3O54XNHXO26WHXODHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/analysis.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/21612f42d0da54716cbecf9d80d55295d86a3df5",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/analysis.txt"
+        }
+    },
+    {
+        "name": "animalcrackers.py",
+        "path": "animalcrackers.py",
+        "sha": "a1553a32a7df4aa2b23d37e82d1977cc89a390a6",
+        "size": 218,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/animalcrackers.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/animalcrackers.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a1553a32a7df4aa2b23d37e82d1977cc89a390a6",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/animalcrackers.py?token=BFSPK2FFEW62JMWXV3GDXETHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/animalcrackers.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a1553a32a7df4aa2b23d37e82d1977cc89a390a6",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/animalcrackers.py"
+        }
+    },
+    {
+        "name": "argv.py",
+        "path": "argv.py",
+        "sha": "f8375e7e9ac08b45bf9f6556fae182af97fccc04",
+        "size": 2602,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/argv.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/argv.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/f8375e7e9ac08b45bf9f6556fae182af97fccc04",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/argv.py?token=BFSPK2F2QH4ANIN2GFMBNJLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/argv.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/f8375e7e9ac08b45bf9f6556fae182af97fccc04",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/argv.py"
+        }
+    },
+    {
+        "name": "blahblahblah.py",
+        "path": "blahblahblah.py",
+        "sha": "ddd4ba0faaf549174299f48d1436dab76bef63cb",
+        "size": 20,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/blahblahblah.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/blahblahblah.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/ddd4ba0faaf549174299f48d1436dab76bef63cb",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/blahblahblah.py?token=BFSPK2EF42ILTU7R2XHPRF3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/blahblahblah.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/ddd4ba0faaf549174299f48d1436dab76bef63cb",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/blahblahblah.py"
+        }
+    },
+    {
+        "name": "class.py",
+        "path": "class.py",
+        "sha": "4e1243d9cd07f24e64b4b8408aee5e4f47fbc573",
+        "size": 691,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/class.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/class.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4e1243d9cd07f24e64b4b8408aee5e4f47fbc573",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/class.py?token=BFSPK2CC7XN5NYKNR7BEGY3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/class.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4e1243d9cd07f24e64b4b8408aee5e4f47fbc573",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/class.py"
+        }
+    },
+    {
+        "name": "country_full.csv",
+        "path": "country_full.csv",
+        "sha": "a5b835734026f651c8363876802e1ebf041a733c",
+        "size": 20783,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/country_full.csv?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/country_full.csv",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a5b835734026f651c8363876802e1ebf041a733c",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/country_full.csv?token=BFSPK2F7ATKEDHBTVG6CDO3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/country_full.csv?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a5b835734026f651c8363876802e1ebf041a733c",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/country_full.csv"
+        }
+    },
+    {
+        "name": "data",
+        "path": "data",
+        "sha": "4a90bcc31e35f6542fc31226acf76b82104930c9",
+        "size": 0,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/data?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/tree/main/data",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/trees/4a90bcc31e35f6542fc31226acf76b82104930c9",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/data?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/trees/4a90bcc31e35f6542fc31226acf76b82104930c9",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/tree/main/data"
+        }
+    },
+    {
+        "name": "download.py",
+        "path": "download.py",
+        "sha": "6c4458d4328f8015cbb7e1d3bf5fe5015556ce55",
+        "size": 296,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/download.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/download.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/6c4458d4328f8015cbb7e1d3bf5fe5015556ce55",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/download.py?token=BFSPK2EQDXS7GBQXJNISTSTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/download.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/6c4458d4328f8015cbb7e1d3bf5fe5015556ce55",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/download.py"
+        }
+    },
+    {
+        "name": "echo.py",
+        "path": "echo.py",
+        "sha": "0e9ab06879743b15ea0b96661028bb127eeec085",
+        "size": 336,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/echo.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/echo.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/0e9ab06879743b15ea0b96661028bb127eeec085",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/echo.py?token=BFSPK2EAI6MKW5GIIB6TREDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/echo.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/0e9ab06879743b15ea0b96661028bb127eeec085",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/echo.py"
+        }
+    },
+    {
+        "name": "es2.py",
+        "path": "es2.py",
+        "sha": "69479532e1cc32a557cd6928865cd0ac4ab77748",
+        "size": 1223,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/es2.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/es2.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/69479532e1cc32a557cd6928865cd0ac4ab77748",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/es2.py?token=BFSPK2G2DHJ6O6AVVUD2YR3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/es2.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/69479532e1cc32a557cd6928865cd0ac4ab77748",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/es2.py"
+        }
+    },
+    {
+        "name": "exercise2.py",
+        "path": "exercise2.py",
+        "sha": "7c8f0f473b125adfdb20a5170f1177c802ae83c1",
+        "size": 550,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/exercise2.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/exercise2.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/7c8f0f473b125adfdb20a5170f1177c802ae83c1",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/exercise2.py?token=BFSPK2H44P5QIST4CDZQVM3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/exercise2.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/7c8f0f473b125adfdb20a5170f1177c802ae83c1",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/exercise2.py"
+        }
+    },
+    {
+        "name": "files.py",
+        "path": "files.py",
+        "sha": "4f94588a0cb5fe55a7807d57fe1bca5cae9a24c2",
+        "size": 304,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/files.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/files.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4f94588a0cb5fe55a7807d57fe1bca5cae9a24c2",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/files.py?token=BFSPK2HGT66JF5SQ3UVRSWDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/files.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4f94588a0cb5fe55a7807d57fe1bca5cae9a24c2",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/files.py"
+        }
+    },
+    {
+        "name": "forloop.py",
+        "path": "forloop.py",
+        "sha": "e0d892eedfa039f6272f19bf28248b79e4bbb9a3",
+        "size": 749,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/forloop.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/forloop.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e0d892eedfa039f6272f19bf28248b79e4bbb9a3",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/forloop.py?token=BFSPK2DSXHRFMTF2GKPQ5WLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/forloop.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e0d892eedfa039f6272f19bf28248b79e4bbb9a3",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/forloop.py"
+        }
+    },
+    {
+        "name": "formatted.txt",
+        "path": "formatted.txt",
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "size": 0,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/formatted.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/formatted.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/formatted.txt?token=BFSPK2DFIXU6BCGJ6SPETTTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/formatted.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/formatted.txt"
+        }
+    },
+    {
+        "name": "function_practice.py",
+        "path": "function_practice.py",
+        "sha": "bd2ccd2da7df2799abac75b2a7b0c8fa7aaaeb3a",
+        "size": 4435,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/function_practice.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/function_practice.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/bd2ccd2da7df2799abac75b2a7b0c8fa7aaaeb3a",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/function_practice.py?token=BFSPK2GUA256XBWQ2SGJQOTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/function_practice.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/bd2ccd2da7df2799abac75b2a7b0c8fa7aaaeb3a",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/function_practice.py"
+        }
+    },
+    {
+        "name": "iris.txt",
+        "path": "iris.txt",
+        "sha": "9e296f971fcfe5e4a9a32ccfecf87f4203288fcf",
+        "size": 1470,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/iris.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/iris.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/9e296f971fcfe5e4a9a32ccfecf87f4203288fcf",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/iris.txt?token=BFSPK2CV4GU6WHVVVCNM3TDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/iris.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/9e296f971fcfe5e4a9a32ccfecf87f4203288fcf",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/iris.txt"
+        }
+    },
+    {
+        "name": "iris_practice.py",
+        "path": "iris_practice.py",
+        "sha": "4a2f51334c82c5f7febd8943a574d9eb06ba6dab",
+        "size": 2811,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/iris_practice.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/iris_practice.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4a2f51334c82c5f7febd8943a574d9eb06ba6dab",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/iris_practice.py?token=BFSPK2GCKFFQKTB2FVW2R6DHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/iris_practice.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4a2f51334c82c5f7febd8943a574d9eb06ba6dab",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/iris_practice.py"
+        }
+    },
+    {
+        "name": "irisdata.csv",
+        "path": "irisdata.csv",
+        "sha": "a3490e0e07dc9d99f655a73e4f53580c8ead9b7d",
+        "size": 4550,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/irisdata.csv?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/irisdata.csv",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a3490e0e07dc9d99f655a73e4f53580c8ead9b7d",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/irisdata.csv?token=BFSPK2FVK2UHDOPDYUHOCDLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/irisdata.csv?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a3490e0e07dc9d99f655a73e4f53580c8ead9b7d",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/irisdata.csv"
+        }
+    },
+    {
+        "name": "knock_weather_unclean.csv",
+        "path": "knock_weather_unclean.csv",
+        "sha": "7169a0517a9a805c09e3b2e482f580b3bf69687b",
+        "size": 20716325,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/knock_weather_unclean.csv?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/knock_weather_unclean.csv",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/7169a0517a9a805c09e3b2e482f580b3bf69687b",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/knock_weather_unclean.csv?token=BFSPK2BFI4TTV63K6KLUCTTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/knock_weather_unclean.csv?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/7169a0517a9a805c09e3b2e482f580b3bf69687b",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/knock_weather_unclean.csv"
+        }
+    },
+    {
+        "name": "lesserorgreater.py",
+        "path": "lesserorgreater.py",
+        "sha": "e62b22d98aaa2cded1e9748165c75e4c0b60bc5b",
+        "size": 165,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/lesserorgreater.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/lesserorgreater.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e62b22d98aaa2cded1e9748165c75e4c0b60bc5b",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/lesserorgreater.py?token=BFSPK2AIECLC343OQWAGFJ3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/lesserorgreater.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e62b22d98aaa2cded1e9748165c75e4c0b60bc5b",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/lesserorgreater.py"
+        }
+    },
+    {
+        "name": "linear.py",
+        "path": "linear.py",
+        "sha": "5e479a45833eb1a813d6a0fb8b4bfb89a359c3d3",
+        "size": 108,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/linear.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/linear.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5e479a45833eb1a813d6a0fb8b4bfb89a359c3d3",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/linear.py?token=BFSPK2FAG2UQC5SFJRAJOIDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/linear.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5e479a45833eb1a813d6a0fb8b4bfb89a359c3d3",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/linear.py"
+        }
+    },
+    {
+        "name": "list_comphrension.py",
+        "path": "list_comphrension.py",
+        "sha": "587bdd1215409b3da9f46dce67f721683a1a5431",
+        "size": 229,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/list_comphrension.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/list_comphrension.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/587bdd1215409b3da9f46dce67f721683a1a5431",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/list_comphrension.py?token=BFSPK2BOH7C5JKAKTOLOVU3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/list_comphrension.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/587bdd1215409b3da9f46dce67f721683a1a5431",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/list_comphrension.py"
+        }
+    },
+    {
+        "name": "messing.py",
+        "path": "messing.py",
+        "sha": "66d1c14c535d5779cd29674d4f32f8325f1a4588",
+        "size": 677,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/messing.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/messing.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/66d1c14c535d5779cd29674d4f32f8325f1a4588",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/messing.py?token=BFSPK2E5W6FE6UJE32AC54THYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/messing.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/66d1c14c535d5779cd29674d4f32f8325f1a4588",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/messing.py"
+        }
+    },
+    {
+        "name": "messing_bank.py",
+        "path": "messing_bank.py",
+        "sha": "ac4a9fbddf86bc35ea5c625944b3050d23599dcd",
+        "size": 1917,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/messing_bank.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/messing_bank.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/ac4a9fbddf86bc35ea5c625944b3050d23599dcd",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/messing_bank.py?token=BFSPK2B55QKGW77AXQ6QIKLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/messing_bank.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/ac4a9fbddf86bc35ea5c625944b3050d23599dcd",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/messing_bank.py"
+        }
+    },
+    {
+        "name": "moby_dicktrial.txt",
+        "path": "moby_dicktrial.txt",
+        "sha": "06f649473c7e82f4a43b8ac1558f968cc330b85e",
+        "size": 1197545,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/moby_dicktrial.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/moby_dicktrial.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/06f649473c7e82f4a43b8ac1558f968cc330b85e",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/moby_dicktrial.txt?token=BFSPK2F6UYLL7XREEIQ3UJLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/moby_dicktrial.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/06f649473c7e82f4a43b8ac1558f968cc330b85e",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/moby_dicktrial.txt"
+        }
+    },
+    {
+        "name": "now.txt",
+        "path": "now.txt",
+        "sha": "1b445379f3a0710b2110bca627789185828830b8",
+        "size": 2080,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/now.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/now.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/1b445379f3a0710b2110bca627789185828830b8",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/now.txt?token=BFSPK2BOGXWPI4EAXYZYCITHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/now.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/1b445379f3a0710b2110bca627789185828830b8",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/now.txt"
+        }
+    },
+    {
+        "name": "output.py",
+        "path": "output.py",
+        "sha": "5009dd27e4496adc78905846a421939bbdca1e7e",
+        "size": 3644,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/output.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/output.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5009dd27e4496adc78905846a421939bbdca1e7e",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/output.py?token=BFSPK2CCIPU66QV2NGBQUFTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/output.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5009dd27e4496adc78905846a421939bbdca1e7e",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/output.py"
+        }
+    },
+    {
+        "name": "output.txt",
+        "path": "output.txt",
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "size": 0,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/output.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/output.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/output.txt?token=BFSPK2G7S4QV4XXX6BZQJLLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/output.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/output.txt"
+        }
+    },
+    {
+        "name": "prime_number.py",
+        "path": "prime_number.py",
+        "sha": "537340d578b3088df131d71627f10ba9bba468c5",
+        "size": 355,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/prime_number.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/prime_number.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/537340d578b3088df131d71627f10ba9bba468c5",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/prime_number.py?token=BFSPK2C32OHMJLRSZCXEUD3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/prime_number.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/537340d578b3088df131d71627f10ba9bba468c5",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/prime_number.py"
+        }
+    },
+    {
+        "name": "pythonbyexample.py",
+        "path": "pythonbyexample.py",
+        "sha": "9fd6d2d3876b67ff6687809b9ef1ad1d46d4a972",
+        "size": 403,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/pythonbyexample.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/pythonbyexample.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/9fd6d2d3876b67ff6687809b9ef1ad1d46d4a972",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/pythonbyexample.py?token=BFSPK2C3U6BDMCOBQZY7AL3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/pythonbyexample.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/9fd6d2d3876b67ff6687809b9ef1ad1d46d4a972",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/pythonbyexample.py"
+        }
+    },
+    {
+        "name": "random.ipynb",
+        "path": "random.ipynb",
+        "sha": "4624b92aeab8b4f039d5750df4a89ea6635dcd19",
+        "size": 42042,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/random.ipynb?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/random.ipynb",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4624b92aeab8b4f039d5750df4a89ea6635dcd19",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/random.ipynb?token=BFSPK2FV3XTCPNTKD4BJGY3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/random.ipynb?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4624b92aeab8b4f039d5750df4a89ea6635dcd19",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/random.ipynb"
+        }
+    },
+    {
+        "name": "regression.py",
+        "path": "regression.py",
+        "sha": "cbdfd92322812cdedb2344d94090c8eb627ad5ef",
+        "size": 4765,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/regression.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/regression.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/cbdfd92322812cdedb2344d94090c8eb627ad5ef",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/regression.py?token=BFSPK2GIR24C6UXYXXXZJETHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/regression.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/cbdfd92322812cdedb2344d94090c8eb627ad5ef",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/regression.py"
+        }
+    },
+    {
+        "name": "rolls.ipynb",
+        "path": "rolls.ipynb",
+        "sha": "c592f915da2030e32e829c6e9f2cefe1639517b8",
+        "size": 14281,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/rolls.ipynb?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/rolls.ipynb",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/c592f915da2030e32e829c6e9f2cefe1639517b8",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/rolls.ipynb?token=BFSPK2E5N4URGOKO467WBZ3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/rolls.ipynb?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/c592f915da2030e32e829c6e9f2cefe1639517b8",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/rolls.ipynb"
+        }
+    },
+    {
+        "name": "scalewaydotcomloop.py",
+        "path": "scalewaydotcomloop.py",
+        "sha": "460dc8ffc1b606978d98e34f6fb17c03444cd75e",
+        "size": 3020,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/scalewaydotcomloop.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/scalewaydotcomloop.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/460dc8ffc1b606978d98e34f6fb17c03444cd75e",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/scalewaydotcomloop.py?token=BFSPK2BYERXLPIOKJFITTI3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/scalewaydotcomloop.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/460dc8ffc1b606978d98e34f6fb17c03444cd75e",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/scalewaydotcomloop.py"
+        }
+    },
+    {
+        "name": "sums.py",
+        "path": "sums.py",
+        "sha": "25887295f73cc072e1f3968cec2f63d2606eb203",
+        "size": 541,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/sums.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/sums.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/25887295f73cc072e1f3968cec2f63d2606eb203",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/sums.py?token=BFSPK2AW7TJFNCFJKM2DB43HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/sums.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/25887295f73cc072e1f3968cec2f63d2606eb203",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/sums.py"
+        }
+    },
+    {
+        "name": "test-b.txt",
+        "path": "test-b.txt",
+        "sha": "af28d38481d34d059071c6710614c3ee65e977de",
+        "size": 13,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test-b.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test-b.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/af28d38481d34d059071c6710614c3ee65e977de",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/test-b.txt?token=BFSPK2DEEKYCI5DMTMK3CNTHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test-b.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/af28d38481d34d059071c6710614c3ee65e977de",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test-b.txt"
+        }
+    },
+    {
+        "name": "test.ipynb",
+        "path": "test.ipynb",
+        "sha": "a92243aef06a9bb57f9d65fb318ce6d27de88dfd",
+        "size": 8314,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test.ipynb?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test.ipynb",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a92243aef06a9bb57f9d65fb318ce6d27de88dfd",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/test.ipynb?token=BFSPK2DEZUA4ZQ27ZITHGW3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test.ipynb?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/a92243aef06a9bb57f9d65fb318ce6d27de88dfd",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test.ipynb"
+        }
+    },
+    {
+        "name": "test.py",
+        "path": "test.py",
+        "sha": "dad07f4d7796535ae044765db898f451a3d3d311",
+        "size": 65,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/dad07f4d7796535ae044765db898f451a3d3d311",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/test.py?token=BFSPK2C2BFE2WN4F2ZVYMP3HYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/dad07f4d7796535ae044765db898f451a3d3d311",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test.py"
+        }
+    },
+    {
+        "name": "test2.ipynb",
+        "path": "test2.ipynb",
+        "sha": "c9cb2e54834b7c8a131fcd80382abfcdaac55ec6",
+        "size": 243992,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test2.ipynb?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test2.ipynb",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/c9cb2e54834b7c8a131fcd80382abfcdaac55ec6",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/test2.ipynb?token=BFSPK2DES44PWQCGXJBVLYLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test2.ipynb?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/c9cb2e54834b7c8a131fcd80382abfcdaac55ec6",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test2.ipynb"
+        }
+    },
+    {
+        "name": "test2.py",
+        "path": "test2.py",
+        "sha": "33521b1f7b6f3866e97c305d6b6863c2c38937bc",
+        "size": 134,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test2.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test2.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/33521b1f7b6f3866e97c305d6b6863c2c38937bc",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/test2.py?token=BFSPK2CEL2PMGYX2HZDLIMLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/test2.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/33521b1f7b6f3866e97c305d6b6863c2c38937bc",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/test2.py"
+        }
+    },
+    {
+        "name": "testa.txt",
+        "path": "testa.txt",
+        "sha": "5e455bd7ce5c7c02a0fd9a8332c62a88195a435a",
+        "size": 56,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/testa.txt?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/testa.txt",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5e455bd7ce5c7c02a0fd9a8332c62a88195a435a",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/testa.txt?token=BFSPK2B2GQZ5FXEM4L6NIGDHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/testa.txt?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5e455bd7ce5c7c02a0fd9a8332c62a88195a435a",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/testa.txt"
+        }
+    },
+    {
+        "name": "tictactoe.py",
+        "path": "tictactoe.py",
+        "sha": "aaeb34b66637aa5168c3abbeb5c44eef55c587c9",
+        "size": 244,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/tictactoe.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/tictactoe.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/aaeb34b66637aa5168c3abbeb5c44eef55c587c9",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/tictactoe.py?token=BFSPK2CRSZRQUKT5EKKTBSLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/tictactoe.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/aaeb34b66637aa5168c3abbeb5c44eef55c587c9",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/tictactoe.py"
+        }
+    },
+    {
+        "name": "volume.py",
+        "path": "volume.py",
+        "sha": "4c37fbc6cd91b1a5b57a41edf2dc1593bcd43eed",
+        "size": 1521,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/volume.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/volume.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4c37fbc6cd91b1a5b57a41edf2dc1593bcd43eed",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/volume.py?token=BFSPK2CMZNV2OHUSGK4CVITHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/volume.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/4c37fbc6cd91b1a5b57a41edf2dc1593bcd43eed",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/volume.py"
+        }
+    },
+    {
+        "name": "weather.ipynb",
+        "path": "weather.ipynb",
+        "sha": "1fd9de634b5e19a86f4cea4e69ba0349e62db97e",
+        "size": 239,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weather.ipynb?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weather.ipynb",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/1fd9de634b5e19a86f4cea4e69ba0349e62db97e",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/weather.ipynb?token=BFSPK2EBF5EVWOXTARVHZCLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weather.ipynb?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/1fd9de634b5e19a86f4cea4e69ba0349e62db97e",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weather.ipynb"
+        }
+    },
+    {
+        "name": "weather.json",
+        "path": "weather.json",
+        "sha": "e986505464daf4859a9b4ce9a489fdedf6483fd7",
+        "size": 5500,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weather.json?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weather.json",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e986505464daf4859a9b4ce9a489fdedf6483fd7",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/weather.json?token=BFSPK2BWO365HGRZFN2R6SLHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weather.json?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/e986505464daf4859a9b4ce9a489fdedf6483fd7",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weather.json"
+        }
+    },
+    {
+        "name": "weather.py",
+        "path": "weather.py",
+        "sha": "c6653b81e9f265fd3600e87010d078d330a931bd",
+        "size": 174,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weather.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weather.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/c6653b81e9f265fd3600e87010d078d330a931bd",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/weather.py?token=BFSPK2HWOJI7HSWR3VJEAULHYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weather.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/c6653b81e9f265fd3600e87010d078d330a931bd",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weather.py"
+        }
+    },
+    {
+        "name": "weatherpandas.py",
+        "path": "weatherpandas.py",
+        "sha": "5311e0e08362e2af6945b119ec169f802a303dd2",
+        "size": 163,
+        "url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weatherpandas.py?ref=main",
+        "html_url": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weatherpandas.py",
+        "git_url": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5311e0e08362e2af6945b119ec169f802a303dd2",
+        "download_url": "https://raw.githubusercontent.com/IreneKilgannon/PythonPractice/main/weatherpandas.py?token=BFSPK2CABNBAN5T4RKAF67THYGRQI",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/IreneKilgannon/PythonPractice/contents/weatherpandas.py?ref=main",
+            "git": "https://api.github.com/repos/IreneKilgannon/PythonPractice/git/blobs/5311e0e08362e2af6945b119ec169f802a303dd2",
+            "html": "https://github.com/IreneKilgannon/PythonPractice/blob/main/weatherpandas.py"
+        }
+    }
+]
