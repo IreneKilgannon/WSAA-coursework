@@ -1,5 +1,6 @@
 from github import Github
 from config import apikeys as cfg
+import requests
 
 apikey = cfg["githubkey"]
 
@@ -11,12 +12,44 @@ g = Github(apikey)
 # Modify the program to get the clone URL of a repository
 
 repo = g.get_repo("IreneKilgannon/WSAA-coursework")
-print(repo.clone_url)
+#print(repo.clone_url)
 
-contents = repo.get_contents("")
-for content in contents:
-   print(content.path)
-   
-#fileInfo = repo.get_contents("test.txt")
-#urloffile = fileInfo.download_url
+# To view the contents of the repository
+#contents = repo.get_contents("")
+#for content in contents:
+#   print(content.path)
+
+########
+# To view the contents of the labs directory in the repository
+folder_path = "labs"
+
+contents = repo.get_contents(folder_path)
+for file in contents:
+   print(file.path)
+
+#######
+# To view the contents of a file inside a directory
+file_path = "labs/test.txt"
+
+file_path = repo.get_contents()
+file_info = repo.get_contents(file_path)
+
+print(f"File Name: {file_info.name}")
+print(f"Download URL: {file_info.download_url}")
+
+# Download the url of the file
+fileInfo = repo.get_contents("test.txt")
+urloffile = fileInfo.download_url
 #print(urloffile)
+
+# Use download URL to make a http request tot he file
+response = requests.get(urloffile)
+contentsOfFile = response.text
+#print(contentsOfFile)
+
+newContents = contentsOfFile + "more stuff \n"
+#print(newContents)
+
+# update the content of the file on github
+gitHubResponse = repo.update_file(fileInfo.path, "updated by prog", newContents, fileInfo.sha)
+print(gitHubResponse)
