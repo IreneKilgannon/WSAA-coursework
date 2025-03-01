@@ -13,6 +13,10 @@ g = Github(apikey)
 repo = g.get_repo("IreneKilgannon/WSAA-coursework")
 print(repo.clone_url)
 
-fileInfo = repo.get_contents("test.txt")
-urloffile = fileInfo.download_url
-print(urloffile)
+contents = repo.get_contents("")
+for content in contents:
+   print(content.path)
+   
+#fileInfo = repo.get_contents("test.txt")
+#urloffile = fileInfo.download_url
+#print(urloffile)
