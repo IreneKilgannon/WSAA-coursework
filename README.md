@@ -3,9 +3,9 @@
 
 This is my repository for the semester three module, Web Services and Applications for a [Higher Diploma in Science in Computing in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics) at the [Atlantic Technological University](https://www.atu.ie/).
 
-The repository contains three directories:
-    * labs
-    * assignments
+The repository contains two directories:
+* labs
+* assignments
 
 ## labs
 
@@ -24,17 +24,12 @@ This directory contains the following assignments:
     value and suit of each card printed.
 
 * assignment03-cso.py
-    * Write a program that retrieves the dataset for the "Exchequer Account (Historical Series)" from the CSO, and stores it into a file called "cso.json". 
+    * Write a program that retrieves the dataset for the "Exchequer Account (Historical Series)" from the CSO, and stores it into a file called "cso.json".
 
+* assignment04-github.py
+    * Write a program that reads a file from a repository. The program should replace all instances of "Andrew" with my name, "Irene". Commit and push those changes back to the repository.
+    * This is the [repository](https://github.com/IreneKilgannon/wsaa-assignment4) and [text.txt](https://github.com/IreneKilgannon/wsaa-assignment4/blob/main/text.txt) file used for this assignment.
 
-## wsaa-project
-
-This directory will contain a large project that will be set in week 7 or week 8.
-
-This project will be an application that:
-    * Retrieves data from and interacts with an API in the cloud
-    * Creates and consumes your own API
-    * Does something you decide
 
 ## Prerequisites
 
@@ -56,7 +51,7 @@ Please note that when installing Anaconda, it is important to check the two boxe
 
 ## Usage
 
-Enter ``git clone https://github.com/IreneKilgannon/wsaa.git`` in Cmder or the terminal of Visual Studio Code to clone the repository.
+Enter ``git clone https://github.com/IreneKilgannon/WSAA-coursework.git`` in Cmder or the terminal of Visual Studio Code to clone the repository.
 
 ## Get Help
 
