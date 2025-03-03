@@ -1,49 +1,70 @@
 # Write a program that will read a file from a repository.
 # The program should replace all the instances of the text "Andrew" with your name.
 # The program should then commit the changes and push the file back to the repository (authorisation will be needed).
+# Handup: push the program as assignment04-github.py to the assignments repository
+
 # Author: Irene Kilgannon
 
-
-
-# Starting basic, write a script to read a file and replace "Andrew" with my name
-# https://www.geeksforgeeks.org/how-to-search-and-replace-text-in-a-file-in-python/
-
-search_text = "Andrew"
-
-replace_text = "Irene"
-
-with open ('andrew.txt', "r") as f:
-    data = f.read()
-    data = data.replace(search_text, replace_text)
-
-# Write the changes to the file. 
-with open('andrew.txt', 'w') as f:
-    f.write(data)
-
-# to read a file from a repository.
-# Using PyGitHub 
-
+import requests
 from github import Github
 from config import apikeys as cfg
-
 g = Github(cfg['githubkey'])
 
-# Get the authenticated user
-#user = g.get_user()
-#print(user.name)
 
-# Get all repos by the user
-#for repo in g.get_user().get_repos():
-#    print(repo.name)
+repo = g.get_repo("IreneKilgannon/WSAA-coursework")
+print(repo.clone_url)
 
-# Create a new file
-repo = g.get_repo("IreneKilgannon/PythonPractice")
-#repo.create_file("new_file.txt", "Initial commit", "Hello, GitHub!")
+#To view the contents of the repository
+contents = repo.get_contents("")
+for content in contents:
+   print(content.path)
+
+# To view the contents of the assignments directory
+folder_path = "assignments"
+
+contents = repo.get_contents(folder_path)
+for file in contents:
+   print(file.path)
+
+#######
+# To view the contents of a file inside a directory
+file_path = "test.txt"
+
+file_info = repo.get_contents(file_path)
+
+print(f"File Name: {file_info.name}")
+print(f"Download URL: {file_info.download_url}")
 
 
-# Update a file, this overwrites the existing content in the file
-file = repo.get_contents("new_file.txt")
-repo.update_file(file.path, "Updating file", "New content here", file.sha)
-print("File updated successfully!")
+# Download the url of the file
+#fileInfo = repo.get_contents("assignments/text.txt")
+url_of_file = file_info.download_url
+print(url_of_file)
+##
+## Use download URL to make a http request to get the file
+response = requests.get(url_of_file)
+contentsOfFile = response.text
+print(contentsOfFile)
+#
 
-g.close()
+newContents = contentsOfFile.replace("Andrew", "Irene") + "more stuff \n"
+print(newContents)
+#
+## update the content of the file on github
+#gitHubResponse = repo.update_file(fileInfo.path, "updated by prog", newContents, fileInfo.sha)
+#print(gitHubResponse)
+# Starting basic, write a script to read a file and replace "Andrew" with my name
+# https://www.geeksforgeeks.org/how-to-search-and-replace-text-in-a-file-in-python/
+#
+#search_text = "Andrew"
+#
+#replace_text = "Irene"
+#
+#with open ('andrew.txt', "r") as f:
+#    data = f.read()
+#    data = data.replace(search_text, replace_text)
+#
+## Write the changes to the file. 
+#with open('andrew.txt', 'w') as f:
+#    f.write(data)
+#
