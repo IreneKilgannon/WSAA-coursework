@@ -21,7 +21,7 @@ repo = g.get_repo("IreneKilgannon/WSAA-coursework")
 
 ########
 # To view the contents of the labs directory
-folder_path = "labs"
+folder_path = "labs/Week01"
 
 contents = repo.get_contents(folder_path)
 for file in contents:
