@@ -7,6 +7,7 @@ import json
 
 url = 'https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FIQ02/JSON-stat/2.0/en'
 
+# Make a HTTP GET request
 response = requests.get(url)
 data = response.json()
 

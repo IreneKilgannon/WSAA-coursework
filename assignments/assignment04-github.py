@@ -26,7 +26,7 @@ url_of_file = file_info.download_url
 print(f"File Name: {file_info.name}")
 print(f"Download URL: {url_of_file}")
 
-# Make a http request to get the contents of the file
+# Make a HTTP GET request to get the contents of the file
 response = requests.get(url_of_file)
 contentsOfFile = response.text
 print(contentsOfFile)
