@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> 
+            test get all
+        </title>
+    </head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <body>
+        <script>
+            function getAll(){
+                $.ajax({
+                    "url": "file:///C:/Users/irene/WSAA-coursework/labs/Week09-HTMLtestgetall.html",
+                    "method": "GET",
+                    "data": "",
+                    "dataType": "JSON",
+                    "success":function(results){
+                        console.log(results);
+                    },
+                    "error":function(xhr,status,error){
+                        console.log("error: " +status+" msg:"+error);
+                    }
+
+                });
+            }
+            getAll()
+        </script>
+    </body>
+</html>
