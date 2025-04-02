@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <!--Make a webpage with an input and a  button. When the user clicks on the the button then the contents of the input will display in another div-->
+        <title>2.3</title>
+    </head>
+    <body>
+        <!--set default value as enter name-->
+        <input id="name" type="text" value = "enter name"/>
+        <br/>
+        <button onclick="buttonClicked()">click me</button>
+        <br/>
+        <div id="output">Output will go here</div>
+
+        <script>
+            function buttonClicked(){
+                var output= document.getElementById('name').value
+                document.getElementById("output").innerText = output
+
+            }
+        </script>
+    </body>
+    
+
+</html>
