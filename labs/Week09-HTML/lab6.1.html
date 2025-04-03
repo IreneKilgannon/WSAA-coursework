@@ -61,13 +61,13 @@
 
         function showUpdate(buttonElement){
             //This function should show the update button and word and hide the create button and work.
-            document.getElementById("createUpdateForm").style.display= "block"
-            document.getElementById("button-doUpdate").style.display = "block"
+            document.getElementById("createUpdateForm").style.display = "block"
             document.getElementById("button-doCreate").style.display = "none"
-            document.getElementById("button-showCreate").style.display= "none"
-            document.getElementById("bookTable").style.display= "none"
+            document.getElementById("button-doUpdate").style.display = "block"
             document.getElementById("createLabel").style.display = "none"
             document.getElementById("updateLabel").style.display = "inline"
+            document.getElementById("button-showCreate").style.display = "none"
+            document.getElementById("bookTable").style.display = "none"
 
             var rowElement = buttonElement.parentNode.parentNode
             book = getBookFromRow(rowElement)
@@ -126,6 +126,7 @@
             cell3.innerHTML = book.author
             var cell4 = rowElement.insertCell(3);
             cell4.innerHTML = book.price
+            var cell5 = rowElement.insertCell(4);
             cell5.innerHTML = '<button onclick="showUpdate(this)">Update</button>'
             var cell6 = rowElement.insertCell(5);
             cell6.innerHTML = '<button onclick=doDelete(this)>delete</button>'

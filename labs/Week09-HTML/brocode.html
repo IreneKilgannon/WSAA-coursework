@@ -1,0 +1,128 @@
+<html>
+    <head>
+        <title>Bro Code</title>
+        <!--Internal CSS-->
+        <style>
+            body{
+                background-color: #e75050;
+            
+            }
+
+            h1{
+                color: white;
+            }
+
+            p{
+                color: white;
+            }
+        </style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1 style="background-color: mediumpurple;">Welcome to Learning HTML with BroCode</h1>
+            <!--Links to content-->
+            <a href="">Home</a>
+            <a href="">About us</a>
+            <a href="">Products</a>
+            <a href="">Contact</a>
+
+        </header>
+        <hr>
+        <main>
+            <h2>Creating Tables</h2>
+        
+        <h3>Store hours</h3>
+
+        <table border="1", style="background-color: blueviolet;">
+            <tr align="center" style="background-color: aqua;">
+                <th width="100">Sunday</th>
+                <th width="100">Monday</th>
+                <th width="100">Tuesday</th>
+                <th width="100">Wednesday</th>
+                <th width="100">Thursday</th>
+                <th width="100">Friday</th>
+                <th width="100">Saturday</th>
+            </tr>
+            <tr align="center">
+                <td>Closed</td>
+                <td>9-5</td>
+                <td>9-5</td>
+                <td>9-5</td>
+                <td>9-5</td>
+                <td>9-5</td>
+                <td>9-5</td>
+                <td>10-2</td>
+            </tr>
+        </table>
+        <br>
+        <br><hr>
+        <h2>Creating Forms</h2>
+        <!--Forms in HTML-->
+
+        <form action="index.php" method="post" enctype="multipart/form-data">
+            <label for="username">username</label>
+            <input type="text" id="username" placeholder="SpongeBog" minlength="6" maxlength="15" required><br>
+
+            <label for="password">password</label>
+            <input type="password" id="password"><br>
+
+            <label for="email">email</label>
+            <input type="email" id="email" placeholder="ss@gmail.com"><br>
+
+            <label for="phone">phone #</label>
+            <input type="tel" id="phone" placeholder="123-123456" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br>
+
+            <!--Calendar-->
+            <label for="DOB">Date of Birth</label>
+            <input type="date" id="DOB"><br>
+
+            <!--Quantity-->
+            <label for="quantity">quantity</label>
+            <input type="number" id="quantity" min="0" max="99" value = "1"><br>
+            <br>
+            <br>
+            <!--Radio button-->
+            <label for="title">Title</label>
+            
+            <label for="Mr.">Mr.</label>
+            <input type="radio" id="Mr." value="Mr." name="title">
+            <label for="Mrs.">Mrs.</label>
+            <input type="radio" id="Mrs." value="Mrs." name="title">
+            <br>
+            <br>
+            <!--Drop down menu-->
+            <label for="payment">payment</label>
+            <select id="payment">
+                <option value="Visa">Visa</option>
+                <option value="Mastercard">Mastercard</option>
+                <option value="Giftcard">Giftcard</option></select><br>
+                <br>
+            <label for="subscribe">subscribe</label>
+            <input type="checkbox" id="subscribe"><br>
+            <br>
+            <label for="comment">comment</label>
+            <textarea id="comment" rows="3" cols="25"></textarea><br><br>
+
+            <!--Choose a file of a specific type-->
+            <label for="file">file</label>
+            <input type="file" id="file" accept="image/png"><br><br>
+
+
+           <input type="reset"><br><br>
+            <input type="submit">
+
+        <h1 style="color: mediumturquoise;">This is inline CSS</h1>
+        <p style="color: rgb(100, 194, 189);">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla ipsa dignissimos quos quisquam nobis ad aliquid quia iusto architecto dolorem officia, porro facere magnam rerum, iure voluptate repellat ab tenetur.</p>
+        <p id="p1" class ="odd">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi dignissimos quisquam dolore quas impedit dolorem repellendus quis similique, laborum illo unde aliquam harum sequi ut tempora incidunt hic deserunt? Illum.</p>
+        <p id = "p1" class="even">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vel aut natus dolorem, exercitationem harum, nemo ullam mollitia inventore itaque perferendis. Dolorem perspiciatis sapiente impedit reprehenderit incidunt natus rerum ipsum?</p>
+    </form>
+
+    </main>
+    <footer>
+        author: Practice <br>
+        &copy; 
+        <small><a href="mailto:practice@practice.com">practice@practice.com</a></small>
+    </footer>
+    </body>
+</html>
