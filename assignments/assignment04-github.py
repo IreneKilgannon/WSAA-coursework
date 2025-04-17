@@ -8,15 +8,15 @@ import requests
 from github import Github
 from config import apikeys as cfg
 
+# The file is text.txt in the wsaa-assignment4 repository.
 
 # Authenticate with GitHub fine grained personal access token
 g = Github(cfg['githubkey'])
 
-# Get the repository
+# Get the repository, wsaa-assignment4
 repo = g.get_repo("IreneKilgannon/wsaa-assignment4")
-#print(repo.clone_url)
 
-# Get the file
+# Get the file from the repository
 file_path = "text.txt"
 file_info = repo.get_contents(file_path)
 
@@ -35,9 +35,12 @@ print(contentsOfFile)
 new_contents = contentsOfFile.replace("Andrew", "Irene")
 print(new_contents)
 
-# Update the file and push to Github
-gitHubResponse = repo.update_file(file_info.path, "updated by assignment4-github.py", new_contents, file_info.sha)
-print(gitHubResponse)
+try:
+    # Update the file and push to Github
+    gitHubResponse = repo.update_file(file_info.path, "final test, updated by assignment4-github.py", new_contents, file_info.sha)
+    print("File updated", gitHubResponse)
+except Exception as e:
+    print("File not updated", e)
 
 # References
 # Lab 5.03 using packages of Web Services and Applications
