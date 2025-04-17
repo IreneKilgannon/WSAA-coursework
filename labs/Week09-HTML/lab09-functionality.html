@@ -1,37 +1,53 @@
 <html>
     <head>
+        <!--Use the webpage from lab 0.61 to create a webpage with functionality to
+create a new book
+view all the books
+update a book
+delete a book-->
         <title> 
-            test get all
-            <!--Use the webpage from lab 0.61 to create a webpage with functionality to
-            create a new book
-            view all the books
-            update a book
-            delete a book-->
+            test get all 
+        </title> 
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        
 
     </head>
     <body>
-        <h1>Books</h1>
-        <div><button id="button-showCreate" onclick= "showCreate()">Create a book</button><br/><br/></div>
+        <h1>Books</h1><br>
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="lab09-functionality.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <br>
+
+        <div><button class="btn-grad" id="button-showCreate" onclick= "showCreate()">Create a book</button><br/><br/></div>
         <div>
-            <table border="1" id="bookTable">
-                <tr>
+            <table border="1" id="bookTable" class="display">
+                <thead>
                         <th>id</th>
                         <th>Title</th>
                         <th>Author</th>
                         <th>Price</th>
                         <th>Update</th>
                         <th>Delete</th>
-                </tr>
-                <tr id="1">
-                    <td>1</td>
-                    <td>Harry Potter does something</td>
-                    <td>JK Rowling</td>
-                    <td>12</td>
-                    <td><button onclick="showUpdate(this)">update</button></td>
-                    <td><button onclick="doDelete(this)">delete</button></td>
-                   
-            </tr>
-
+                </thead>
+                <tbody>
+                    <tr id="1">
+                        <td>1</td>
+                        <td>Harry Potter does something</td>
+                        <td>JK Rowling</td>
+                        <td>12</td>
+                        <td><button onclick="showUpdate(this)">update</button></td>
+                        <td><button onclick="doDelete(this)">delete</button></td>
+                    
+                     </tr>
+                </tbody>
         </table>
         <br/>
         </div>
@@ -55,24 +71,20 @@
         //console.log("hello world")
         function showCreate(){
             document.getElementById("createUpdateForm").style.display = "block"
-            
             document.getElementById("button-doCreate").style.display = "block"
             document.getElementById("button-doUpdate").style.display = "none"
             document.getElementById("createLabel").style.display = "inline"
             document.getElementById("updateLabel").style.display = "none"
-
             document.getElementById("button-showCreate").style.display = "none"
             document.getElementById("bookTable").style.display = "none"
             
         }
         function showUpdate(buttonElement){
             document.getElementById("createUpdateForm").style.display = "block"
-           
             document.getElementById("button-doCreate").style.display = "none"
             document.getElementById("button-doUpdate").style.display = "block"
             document.getElementById("createLabel").style.display = "none"
             document.getElementById("updateLabel").style.display = "inline"
-
             document.getElementById("button-showCreate").style.display = "none"
             document.getElementById("bookTable").style.display = "none"
 
@@ -81,15 +93,15 @@
             //console.log("updating")
             //console.log(book)
             populateFormWithBook(book)
-            
         }
+
         function showViewall(){
             document.getElementById("createUpdateForm").style.display = "none"
-           
             document.getElementById("button-showCreate").style.display = "block"
             document.getElementById("bookTable").style.display = "block"
             
         }
+
         function clearForm(){
             var form = document.getElementById('createUpdateForm')
 
@@ -102,8 +114,8 @@
         
         function getBookFromForm(){
             var form = document.getElementById('createUpdateForm')
-
        	    var book = {}
+
         	book.id = form.querySelector('input[name="id"]').value
         	book.title = form.querySelector('input[name="title"]').value
         	book.author = form.querySelector('input[name="author"]').value
@@ -111,6 +123,7 @@
         	//console.log(JSON.stringify(book))
             return book
         }
+
         function populateFormWithBook(book){
        		var form = document.getElementById('createUpdateForm')
         	form.querySelector('input[name="id"]').disabled = true
@@ -149,6 +162,7 @@
             book.price = rowElement.cells[3].firstChild.textContent
             return book
         }
+
         function setBookInRow(rowElement, book){
             rowElement.cells[0].firstChild.textContent= book.id  
             rowElement.cells[1].firstChild.textContent= book.title 
@@ -181,6 +195,9 @@
 
         }
 
-        
+        $(document).ready( function () {
+            $('bookTable').DataTable();
+        } );   
+    
     </script>
 </html>

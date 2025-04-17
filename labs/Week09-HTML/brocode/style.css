@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(154, 154, 202);
+    padding: 0px;
+    margin:0%;
+    overflow: hidden;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: rgb(183, 183, 211);
+}
+
+.navbar li{
+    float: left;
+}
+
+body{
+    margin:0;
+}
+
+
+header{
+    background-color: lightgrey;
+    text-align: center;
+    padding:25px;
+}
+
+.navbar{
+    background-color: black;
+    height:50px;
+}
+
+aside{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+section{
+    width:40%;
+    float: left;
+    padding: 10px;
+}
+
+article{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+
+footer{
+    display: block;
+    clear: both;
+    background-color: lightgrey;
+    text-align: center;
+    padding:25px;
+}
+
+@media screen and (max-width:600px) {
+    aside, section, article{
+        width: 100%;
+    }
+}
+
+.dropdown{
+    display: inline-block;
+}
+.dropdown button{
+    background-color: aqua;
+    color:black;
+    padding:10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown a{
+    display:block;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.dropdown .content{
+    display: none;
+    background-color: blueviolet;
+    position:absolute;
+    min-width: 100px;
+    box-shadow: 2px 2px 5px rgb(196, 189, 189);
+}
+
+.dropdown:hover .content{
+    display: block;
+
+}
+
+.dropdown:hover button{
+    background-color: rgb(255, 230, 0);
+}
+
+.dropdown a:hover{
+    background-color: rgb(211, 143, 202);
+}
+
+
+.gallery {
+    display: inline-block;
+    border: 1px solid rgb(172, 216, 172);
+    margin: 5px;
+    width: 200px;
+}
+
+.gallery .description{
+    padding:10px;
+    text-align: center;
+}
+
+.gallery:hover{
+    border:1px solid black;
+}
+
+.gallery img{
+    width:100%;
+    height: auto;
+}
+
+
+
