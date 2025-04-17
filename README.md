@@ -1,39 +1,53 @@
 # Web Services and Applications
 
 
-This is my repository for the semester three module, Web Services and Applications for a [Higher Diploma in Science in Computing in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics) at the [Atlantic Technological University](https://www.atu.ie/).
+This repository contains coursework for the semester three module, _Web Services and Applications_, part of the [Higher Diploma in Science in Computing in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics) at [Atlantic Technological University](https://www.atu.ie/).
 
-The repository contains two directories:
-* labs
-* assignments
+## Repository Structure
 
-## labs
 
-This directory contains the lab work that accompanies the weekly lectures.
+```WSAA-coursework/
+├── assignments/       # WSAA Coursework assignments that accompany the weekly lectures
+├── labs/              # WSAA Labs and extra work
+├──.gitignore          # .gitignore file for this repository.
+└── README.md          # Main repository overview (this file).
+```
 
 ## assignments
 
-This directory contains the assignments that make up 40% of the overall mark for this module. 
+Assignments make up 40% of the overall module grade. 
+
+In addition to the 3 assignments listed below, two MCQ's were also part of the assessment. 
 
 This directory contains the following assignments:
 
-* assignment2-carddraw.ipynb
-    * Using this API, [Deck of Cards API](https://deckofcardsapi.com/) write a program that prints out five cards. 
+1. __assignment2-carddraw.ipynb__
 
-    This API simulates dealing a deck of cards. First the cards are shuffled, then five cards are drawn and the 
-    value and suit of each card printed.
+    Using the [Deck of Cards API](https://deckofcardsapi.com/) write a Python program that shuffles a deck, draws five cards and prints the value and suit of each card.
 
-* assignment03-cso.py
-    * Write a program that retrieves the dataset for the "Exchequer Account (Historical Series)" from the CSO, and stores it into a file called "cso.json".
+    For extra marks, congratulate the user if the user draws a pair, triple or a straight. 
 
-* assignment04-github.py
-    * Write a program that reads a file from a repository. The program should replace all instances of "Andrew" with my name, "Irene". Commit and push those changes back to the repository.
-    * This is the [repository](https://github.com/IreneKilgannon/wsaa-assignment4) and [text.txt](https://github.com/IreneKilgannon/wsaa-assignment4/blob/main/text.txt) file used for this assignment.
+2. __assignment03-cso.py__
 
+    Write a program that retrieves the dataset for the "Exchequer Account (Historical Series)" from [CSO.ie](data.cso.ie), and store it in a file named "cso.json".
+    
+    To locate the dataset: 
+
+        Economy → Finance → Financial Indicators → Exchequer Account (Historical Series).
+
+    [Link to cso.json](data\cso.json)
+
+3. __assignment04-github.py__
+
+    This script reads a file from a GitHub repository and replaces all instances of "Andrew" with my name, "Irene". The updated file is committed and pushed back to the repository.
+
+    This is the [repository](https://github.com/IreneKilgannon/wsaa-assignment4) and [text.txt](https://github.com/IreneKilgannon/wsaa-assignment4/blob/main/text.txt) file used for this assignment.
+
+    This assignment involves the creation and use of fine grain access tokens in GitHub. The access token is saved to a private file, config.py and imported into assignment04-github.py.
 
 ## Prerequisites
 
-To run the file on your local system, the following must be downloaded and installed.
+To run the files on your local system, the following must be downloaded and installed.
 
 1. Download and install Anaconda. Anaconda is a Python distribution and comes with pre-installed packages. 
 
