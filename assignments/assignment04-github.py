@@ -8,7 +8,7 @@ import requests
 from github import Github
 from config import apikeys as cfg
 
-# The file is text.txt in the wsaa-assignment4 repository.
+# The file, text.txt is in the wsaa-assignment4 repository.
 
 # Authenticate with GitHub fine grained personal access token
 g = Github(cfg['githubkey'])
@@ -28,20 +28,21 @@ print(f"Download URL: {url_of_file}")
 
 # Make a HTTP GET request to get the contents of the file
 response = requests.get(url_of_file)
-contentsOfFile = response.text
-print(contentsOfFile)
+file_contents = response.text
+print(file_contents)
 
 # Replace Andrew with Irene
-new_contents = contentsOfFile.replace("Andrew", "Irene")
+new_contents = file_contents.replace("Andrew", "Irene")
+print("Contents of updated file.")
 print(new_contents)
 
 try:
-    # Update the file and push to Github
+    # Commit the file and push to Github
     gitHubResponse = repo.update_file(file_info.path, "final test, updated by assignment4-github.py", new_contents, file_info.sha)
     print("File updated", gitHubResponse)
 except Exception as e:
     print("File not updated", e)
 
 # References
-# Lab 5.03 using packages of Web Services and Applications
+# Lab 5.03 Web Services and Applications, https://github.com/andrewbeattycourseware/WSAA-Courseware/blob/main/code/Topic05-authentication/labs/lab05.03.01-githubbymodule.py
 # Understanding Git commit SHAs https://graphite.dev/guides/git-hash
