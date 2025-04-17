@@ -41,7 +41,7 @@ This directory contains the following assignments:
 
     This script reads a file from a GitHub repository and replaces all instances of "Andrew" with my name, "Irene". The updated file is committed and pushed back to the repository.
 
-    This is the [repository](https://github.com/IreneKilgannon/wsaa-assignment4) and [text.txt](https://github.com/IreneKilgannon/wsaa-assignment4/blob/main/text.txt) file used for this assignment.
+    This is the [repository, wsaa-assignment4](https://github.com/IreneKilgannon/wsaa-assignment4) and [text.txt](https://github.com/IreneKilgannon/wsaa-assignment4/blob/main/text.txt) file used for this assignment.
 
     This assignment involves the creation and use of fine grain access tokens in GitHub. The access token is saved to a private file, config.py and imported into assignment04-github.py.
 
